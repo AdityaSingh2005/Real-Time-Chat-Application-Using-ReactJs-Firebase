@@ -1,4 +1,4 @@
-# Real Time Chat Application Using ReactJs Firebase 📲
+# Real Time Chat Application 📲
 
 ## About 
 <p>A real-time chat application built with React.js and Firebase.</p>
